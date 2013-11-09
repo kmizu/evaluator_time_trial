@@ -1,0 +1,63 @@
+This time trial tooks about 20 minutes according to the following commit history:
+
+commit 4480f9f29efa4a0d173607af1524467dd6fc55ae
+Author: Kota Mizushima <mizukota@gmail.com>
+Date:   Sun Nov 10 00:33:35 2013 +0900
+
+The previous commit comment should be: 'What to do has been done.'
+
+commit fc7e01e27634855b2fe751d3641d8cdb5958821b
+Author: Kota Mizushima <mizukota@gmail.com>
+Date:   Sun Nov 10 00:31:10 2013 +0900
+
+Improve displayed result.  What do to is done.
+
+commit c4faada1dc4b7786850d47cc2a1ef62b048b280a
+Author: Kota Mizushima <mizukota@gmail.com>
+Date:   Sun Nov 10 00:28:29 2013 +0900
+
+Example input. Completed!
+
+commit 9dfb6648b969deec74585523abc8a16aeb4fc8db
+Author: Kota Mizushima <mizukota@gmail.com>
+Date:   Sun Nov 10 00:27:39 2013 +0900
+
+Forgot to print result
+
+commit e259975ba1b64f581820dd0c25c00453691ac5d1
+Author: Kota Mizushima <mizukota@gmail.com>
+Date:   Sun Nov 10 00:26:16 2013 +0900
+
+Forgot to import scala.util.parsing.combinator._
+
+commit 51b985523b26dae3b109c1b7cba2d25a82c20cfe
+Author: Kota Mizushima <mizukota@gmail.com>
+Date:   Sun Nov 10 00:24:58 2013 +0900
+
+Oops! double quotes was not needed!
+
+commit b475aaf32a585f21c42bc4b26bc038ad019a4fb9
+Author: Kota Mizushima <mizukota@gmail.com>
+Date:   Sun Nov 10 00:23:05 2013 +0900
+
+Lock sbt.version
+
+commit 9b1f27e9d5fb708585a2d77454f9018997bd0365
+Author: Kota Mizushima <mizukota@gmail.com>
+Date:   Sun Nov 10 00:22:27 2013 +0900
+
+Implementation completed.  But I don't know it compiles fine yet
+
+commit 1dc8baf850d44663b65b9951e7a42fd46a897bc9
+Author: Kota Mizushima <mizukota@gmail.com>
+Date:   Sun Nov 10 00:15:12 2013 +0900
+
+build.sbt is OK
+
+commit 4b87663f31a8c175e694aeb0bee69733b23f46fa
+Author: Kota Mizushima <mizukota@gmail.com>
+Date:   Sat Nov 9 07:14:01 2013 -0800
+
+Initial commit
+
+
