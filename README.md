@@ -1,7 +1,8 @@
 evaluator_time_trial
 ====================
 
-This repository is meaningless without myself since it's just for time trial to create simple evaluator.
+This repository is meaningless for any person except myself since it's just a time trial to measure the time to create a simple 
+mathmatical expression evaluator.
 
 ## Purpose
 
