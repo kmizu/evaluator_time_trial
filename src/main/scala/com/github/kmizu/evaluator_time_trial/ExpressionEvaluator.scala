@@ -1,6 +1,7 @@
 package com.github.kmizu.evaluator_time_trial
 import java.io.File
 import scala.io.Source
+import scala.util.parsing.combinator._
 
 object ExpressionEvaluator extends RegexParsers {
 
