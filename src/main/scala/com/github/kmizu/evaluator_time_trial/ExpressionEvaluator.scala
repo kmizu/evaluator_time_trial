@@ -19,6 +19,6 @@ object ExpressionEvaluator extends RegexParsers {
 
   def main(args: Array[String]) {
     val src = Source.fromFile(args(0))
-    parseAll(expression, src.mkString)
+    println(parseAll(expression, src.mkString))
   }
 }
